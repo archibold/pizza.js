@@ -17,7 +17,6 @@
 			}
 
 			lst_pizza[best_index].setStatus(true)
-			console.log(lst_pizza[best_index]);
 		}
 
 		container = document.getElementById('container');
